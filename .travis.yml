@@ -38,4 +38,3 @@ deploy:
   on:
     repo: chengjingjingjing/OnlineJudgeFE
     all_branches: true
-    tags: true
